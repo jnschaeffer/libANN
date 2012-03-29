@@ -1,0 +1,5 @@
+libANN version 0.2
+(c) 2012 John Schaeffer
+jnschaeffer@gmail.com
+
+In brief, this library is designed to facilitate the production and training of artificial neural networks (ANNs) for use in machine learning. Currently supports feed-forward networks and training thereof using the FFN_Train() function. Email the creator if there are any bugs.
